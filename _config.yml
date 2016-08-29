@@ -7,7 +7,7 @@ permalink:        pretty
 title:            Daniel Lathrop
 tagline:          'Your tagline'
 description:      A professor at the University of Iowa with a bright future ahead of him in mass communication.
-url:              http://lathropd.github.io
+url:              http://hkim60.github.io
 baseurl:          /profile-hyde/
 shortbaseurl:     /profile-hyde
 colorscheme:      ''
@@ -15,7 +15,7 @@ colorscheme:      ''
 
 
 author:
-  name:           'Daniel Lathrop'
+  name:           'HyunJung Kim'
   url:            ''
   
 paginate:         5
