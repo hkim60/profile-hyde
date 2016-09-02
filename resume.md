@@ -12,7 +12,7 @@ title: Resume
 
 * Write articles about annual events of the organization.
 * Prepare press release for the organization.
-* Select appropriate academic information that are beneficial to international stduents.   
+* Select academic information that are beneficial to international stduents.   
 * Provide campus life information for the students.
 
 
