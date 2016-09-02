@@ -13,7 +13,7 @@ As a journalist, I focus on the issue, provide accurate information and inspire 
 
 I have developed my professional ability through journalistic reporting and writing and a working experience. I am currently a member of the press at KUSA, the Korean UIowa Student Association. Not only writing but also by taking multimedia storytelling, I have technological skills in Adobe Photoshop and Final Cut. 
 
-As a college student, I like learning different languages and love watching movies with friends. 
+As a college student, I like learning different languages and love watching movies. 
 
 ## Setup
 
