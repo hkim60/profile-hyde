@@ -4,10 +4,10 @@ title: About
 ---
 
 <p class="message">
-  *Looking at the Issues from Various Viewpoints.*
+  Looking at the Issues from Various Viewpoints
 </p>
 
-My name is HyunJung Kim and double majoring in Journalism and Mass Communication and International Studies at the University of Iowa.
+My name is HyunJung Kim and double majoring in *Journalism and Mass Communication* and *International Studies* at the University of Iowa.
 
 As a journalist, I focus on the issue, provide accurate information and inspire readers to cultivate critical thinking. In case of my second interest in PR, I care about diverse features that can balance the different perspectives in communication industry.
 
