@@ -15,11 +15,11 @@ I have developed my professional ability through journalistic reporting and writ
 
 As a college student, I like learning languages, traveling different countries and love watching movies. 
 
+
 ## Portfolio
 
-Learn more about my previous work?
+Know more about my previous work?
 
 * [2015 SJMC Multimedia Site](https://multimedia.jmc.uiowa.edu/hkim60/)
-
 
 Thanks for reading!
