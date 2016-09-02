@@ -28,10 +28,10 @@ A student organization in the University of Iowa, supporting other Korean relate
 
 #### Journalism and PR
 * AP style
-* Journalistic Reporting and Wrting 
-* Strategic Communication Writing
-* Strategic communication Campaigns for Publie Debate
+* Journalistic Reporting and Wrting
 * Social Media Communication
+* Strategic Communication Writing
+* Strategic Communication Campaigns for Publie Debate
 
 #### Video and Audio Production
 * FinalCut Pro X
