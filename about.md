@@ -16,7 +16,7 @@ I have developed my professional ability through journalistic reporting and writ
 
 ## Setup
 
-Learn more about my previous work?
+Learn more about my work?
 * [2015 SJMC Multimedia Site](https://multimedia.jmc.uiowa.edu/hkim60/)
 
 * Built for [Jekyll](http://jekyllrb.com)
