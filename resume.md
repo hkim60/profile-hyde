@@ -26,7 +26,7 @@ A student organization in the University of Iowa, supporting other Korean relate
 
 ### Skills
 
-#### Journalism and PR Skills
+#### Journalism and PR
 * AP style
 * Journalistic Reporting and Wrting 
 * Strategic Communication Writing
