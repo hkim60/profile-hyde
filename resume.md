@@ -2,59 +2,49 @@
 layout: resume
 title: Resume
 ---
-104 W. Washington St., Iowa City, IA 52242  
-[stella-student@uiowa.edu](mailto:stella-student@uiowa.edu) - (319) 335 - 3331
+[hyunjung-kim-2@uiowa.edu](mailto:hyunjung-kim-2@uiowa.edu)
 
 ### Experience
 
-#### The Daily Iowan
+#### Korean UIowa Student Association
 
-##### Copy Desk Chief *Jan. - May 2016*
-Brief description here.    
+##### Reporter *Jan. 2016 - present*
 
-* list two or three
-* important achievements
-
-##### Copy Editor *Sept. 2014 - Dec. 2015*
-Brief description here.    
-
-* list two or three
-* important achievements
-* you want to emphasize
-
-
-#### University of Iowa Hospitals and Clinics
-
-##### Food service supervisor *Jan. - May 2016*
-Very brief description here. No bullets.  
+* Write articles about annual events of the organization.
+* Prepare press release for the organization.
+* Select appropriate academic information that are beneficial to international stduents.   
+* Provide campus life information for the students.
 
 
 ### College Activities
 
-#### Sigma Delta Chi
-Brief explanation
+#### Korean UIowa Student Association
+A student organization in the University of Iowa, supporting other Korean related organizations and Korean students.
 
-* President Jan. 2016 - present
-* Secretary Sept. 2015 - Jan. 2016
-* Member  Sept. 2014 - present
+* Member  Jan. 2016 - present
 
-
-#### Iowa Raptor Project
-
-Something about birds.
 
 ### Skills
 
-#### Video production
-* FinalCut X
-* Adobe Premiere
-* Experience with SLR and DVCAM shooting
+#### Journalism and PR Skills
+* AP style
+* Journalistic Reporting and Wrting 
+* Strategic Communication Writing - present
+* Strategic communication Campaigns for Publie Debate - present
+* Social Media Communication
 
-#### Another skill
-* subskills/software
+#### Video and Audio Production
+* FinalCut Pro X
+* Adobe Photoshop
+* Audio Editing with Adacity 
+
+#### Additional skills
+* Bilingual Korean and English
+* Elementary proficiency in Chinese and Japanese
 
 ### Education
 
 #### University of Iowa
 
-Bachelor of Arts in Journalism and Mass Communication *anticipated May 2017* 
+Bachelor of Arts in Journalism and Mass Communication *anticipated Dec. 2016* 
+Bachelor of Arts in International Studies (International Communication and Information) *anticipated Dec. 2016*
