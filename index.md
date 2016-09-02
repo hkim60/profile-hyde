@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-![logo](public/maxresdefault.jpg)
+![logo](public/IMG_7954.JPG)
 
 I'm a student at the University of Iowa, majoring in [Journalism and Mass Communication](http://clas.uiowa.edu/sjmc/) and [International Studies](https://clas.uiowa.edu/international-studies/).
 
