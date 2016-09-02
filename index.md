@@ -7,7 +7,7 @@ title: Home
 
 I'm a student at the University of Iowa, majoring in [Journalism and Mass Communication](http://clas.uiowa.edu/sjmc/) and [International Studies](https://clas.uiowa.edu/international-studies/).
 
-I have developed my professional skills through journalistic reporting and writing, multimedia storytelling, and foundations of the first amendment. I am currently a member of the press at KUSA, the Korean UIowa Student Association and have been working for a year.  
+I have developed my professional skills through journalistic reporting and writing, multimedia storytelling and foundations of the first amendment. I am currently a member of the press at KUSA, the Korean UIowa Student Association.
 
 ### Social media
 
