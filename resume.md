@@ -12,7 +12,7 @@ title: Resume
 
 * Write articles about annual events of the organization.
 * Prepare press release for the organization.
-* Select academic information that are beneficial to international stduents.   
+* Select academic information that are beneficial to international student.   
 * Provide campus life information for the students.
 
 
@@ -29,8 +29,8 @@ A student organization in the University of Iowa, supporting other Korean relate
 #### Journalism and PR Skills
 * AP style
 * Journalistic Reporting and Wrting 
-* Strategic Communication Writing - present
-* Strategic communication Campaigns for Publie Debate - present
+* Strategic Communication Writing
+* Strategic communication Campaigns for Publie Debate
 * Social Media Communication
 
 #### Video and Audio Production
@@ -47,4 +47,4 @@ A student organization in the University of Iowa, supporting other Korean relate
 #### University of Iowa
 
 Bachelor of Arts in Journalism and Mass Communication *anticipated Dec. 2016* 
-Bachelor of Arts in International Studies (International Communication and Information) *anticipated Dec. 2016*
+Bachelor of Arts in International Studies *anticipated Dec. 2016*
