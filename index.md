@@ -5,9 +5,9 @@ title: Home
 
 ![logo](public/maxresdefault.jpg)
 
-I'm a student of the University of Iowa, majoring in [Journalism and Mass Communication](http://clas.uiowa.edu/sjmc/) and [International Studies](https://clas.uiowa.edu/international-studies/).
+I'm a student at the University of Iowa, majoring in [Journalism and Mass Communication](http://clas.uiowa.edu/sjmc/) and [International Studies](https://clas.uiowa.edu/international-studies/).
 
-I have proven expertise in [multimedia storytelling](/), [journalistic reporting and writing](/#) and [media law](/#). I am currently the sergeant-at-arms of the University of Iowa [Society for the Promotion of Associations](/#), and I really like green eggs and ham.
+I have developed my professional skills through journalistic reporting and writing, multimedia storytelling, and foundation of first amendment. I am currently a member of the press at KUSA, the Korean UIowa Student Association.  
 
 ### Social media
 
