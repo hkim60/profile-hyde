@@ -17,12 +17,7 @@ I have developed my professional ability through journalistic reporting and writ
 ## Setup
 
 Learn more about my work?
-* [2015 SJMC Multimedia Site](https://multimedia.jmc.uiowa.edu/hkim60/)
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
+*[2015 SJMC Multimedia Site](https://multimedia.jmc.uiowa.edu/hkim60/)
 
 
 Thanks for reading!
